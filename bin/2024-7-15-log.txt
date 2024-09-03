@@ -1,0 +1,2 @@
+22:22:57=>first log message!
+22:22:57=>/root/MPRPC/example/callee/friendservice.cc:main:43
